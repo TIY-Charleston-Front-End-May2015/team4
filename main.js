@@ -67,7 +67,6 @@ var page ={
     });
   },
 
-
   createMessage: function (newMessage) {
     $.ajax({
       url: page.url,
