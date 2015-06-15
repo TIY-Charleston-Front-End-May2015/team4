@@ -84,7 +84,7 @@ body {
   position: absolute;
   left: 100px;
   z-index: 1;
-  margin-top: -8px;
+  margin-top: -14px;
 }
 .messageContent {
   color: #F8CA00;
